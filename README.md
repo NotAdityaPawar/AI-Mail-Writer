@@ -1,8 +1,8 @@
 ## AI Mail Writer
 Write mails using the GPT-3
 
-<img src="./frontend/public/screenshots/ss1.jpg" >
-<img src="./frontend/public/screenshots/ss2.jpg" >
+<img src="./public/screenshots/ss1.jpg" >
+<img src="./public/screenshots/ss2.jpg" >
 
 ## Getting started
 First, run the development server:
